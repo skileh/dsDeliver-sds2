@@ -6,7 +6,7 @@ import {ReactComponent as InstagramICon} from './instagram.svg';
 function Footer(){
     return (
         <footer className = "main-footer">
-            App desenvolvido durante a 2ª ed. do evento Semana DevSuperior
+            App desenvolvido por Heliks Mota Mersenburg durante a 2ª ed. do evento Semana DevSuperior
             <div className="footer-icons">
                 <a href="https://www.youtube.com/" target="_new">
                     <YouTubeIcon />
