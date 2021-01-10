@@ -4,7 +4,7 @@ O projeto consiste em um aplicativo web e mobile de registro e entrega de pedido
 
 ## Técnologias
 
-Aplicativo implementado em ajva com **Spring Boot** no back end, e **JavaScript/TypeScript** no front end, com **ReactJS** para web, e ***React Native** para mobile.
+Aplicativo implementado em java com **Spring Boot** no back end, e **JavaScript/TypeScript** no front end, com **ReactJS** para web, e ***React Native** para mobile.
 
 Utilizou-se **heroku** para armazenar o banco de dados na nuvem e **netlify** para a página web.
 
